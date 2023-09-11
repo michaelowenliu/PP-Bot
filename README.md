@@ -1,2 +1,2 @@
 # PP-Bot
-A chatbot built on PaddlePaddle
+**P**addle**P**addle Chat**Bot**
